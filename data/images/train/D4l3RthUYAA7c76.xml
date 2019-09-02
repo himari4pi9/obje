@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>D4l3RthUYAA7c76.jpg</filename>
+    <path>吹き出し2-PascalVOC-export/Annotations/D4l3RthUYAA7c76.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>304</width>
+        <height>304</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>166.28226336546888</xmin>
+        <ymin>8.525854513584575</ymin>
+        <xmax>212.87992988606484</xmax>
+        <ymax>47.35741673970202</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93.15786590709904</xmin>
+        <ymin>1.8442156003505696</ymin>
+        <xmax>160.94735977212972</xmax>
+        <ymax>99.81140446976336</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>88.73466257668711</xmin>
+        <ymin>110.85796450482033</ymin>
+        <xmax>194.58139789658196</xmax>
+        <ymax>162.45020815074497</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>212.01818580192813</xmin>
+        <ymin>240.18410385626643</ymin>
+        <xmax>292.1437335670464</xmax>
+        <ymax>293.13869412795793</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>5.98225241016652</xmin>
+        <ymin>236.37078220858896</ymin>
+        <xmax>64.28111305872042</xmax>
+        <ymax>286.4008545135846</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,70 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>D4l4vIoUYAADjZA.jpg</filename>
+    <path>吹き出し2-PascalVOC-export/Annotations/D4l4vIoUYAADjZA.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>338</width>
+        <height>338</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>264.84936459246273</xmin>
+        <ymin>2.050476555652936</ymin>
+        <xmax>320.4992057405784</xmax>
+        <ymax>72.97706233567047</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>12.092257340052585</xmin>
+        <ymin>0.9870522020157756</ymin>
+        <xmax>57.79289000876424</xmax>
+        <ymax>96.52514241893076</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>250.7309309268186</xmin>
+        <ymin>116.75103390666082</ymin>
+        <xmax>317.42117659947417</xmax>
+        <ymax>190.25112976555653</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>268.32429749123577</xmin>
+        <ymin>235.2794560692375</ymin>
+        <xmax>329.21488825591587</xmax>
+        <ymax>327.20838354513586</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>15.448003396143733</xmin>
+        <ymin>249.80405072304995</ymin>
+        <xmax>74.25571729842244</xmax>
+        <ymax>330.99111935801926</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>D4l3AXGUUAECPU1.jpg</filename>
+    <path>吹き出し2-PascalVOC-export/Annotations/D4l3AXGUUAECPU1.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>384</width>
+        <height>384</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>68.35845749342683</xmin>
+        <ymin>166.42375109553024</ymin>
+        <xmax>148.96143733567047</xmax>
+        <ymax>227.15337423312883</ymax>
+    </bndbox>
+</object>
+</annotation>

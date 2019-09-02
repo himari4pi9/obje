@@ -1,0 +1,92 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>D4l2-5CUYAIVrYC.jpg</filename>
+    <path>吹き出し2-PascalVOC-export/Annotations/D4l2-5CUYAIVrYC.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>400</width>
+        <height>400</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>16.327508764241895</xmin>
+        <ymin>24.305707712532868</ymin>
+        <xmax>140.1046231375986</xmax>
+        <ymax>112.81359553023664</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.920300175284838</xmin>
+        <ymin>93.87598597721298</ymin>
+        <xmax>70.72332383873795</xmax>
+        <ymax>149.4248466257669</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>295.8890227870289</xmin>
+        <ymin>24.76583041191937</ymin>
+        <xmax>398.2005915863278</xmax>
+        <ymax>106.35270595968449</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>269.0964614373357</xmin>
+        <ymin>151.75421779141107</ymin>
+        <xmax>399.112620508326</xmax>
+        <ymax>232.87686240140232</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>15.377136283961438</xmin>
+        <ymin>155.62554776511834</ymin>
+        <xmax>81.27464943032427</xmax>
+        <ymax>215.41821866783528</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>15.32099035933392</xmin>
+        <ymin>296.2779360210342</ymin>
+        <xmax>73.80587204206836</xmax>
+        <ymax>351.2365797546012</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>84.1969763365469</xmin>
+        <ymin>273.4635188431201</ymin>
+        <xmax>227.8675503943909</xmax>
+        <ymax>368.5076139351446</ymax>
+    </bndbox>
+</object>
+</annotation>

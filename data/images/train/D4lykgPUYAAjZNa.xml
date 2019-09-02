@@ -1,0 +1,81 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>D4lykgPUYAAjZNa.jpg</filename>
+    <path>吹き出し2-PascalVOC-export/Annotations/D4lykgPUYAAjZNa.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>423</width>
+        <height>423</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>317.05160289767747</xmin>
+        <ymin>26.159454425942155</ymin>
+        <xmax>363.32302051380367</xmax>
+        <ymax>92.98886667397021</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>351.8840518185802</xmin>
+        <ymin>153.484053187993</ymin>
+        <xmax>409.3656297929448</xmax>
+        <ymax>218.82186678352323</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>272.7641563047765</xmin>
+        <ymin>305.3070737017967</ymin>
+        <xmax>324.692063568142</xmax>
+        <ymax>411.54510161042947</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>26.68803064745837</xmin>
+        <ymin>175.21794889351446</ymin>
+        <xmax>68.01834670793164</xmax>
+        <ymax>233.55104143843118</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>220.1990612675285</xmin>
+        <ymin>242.216795163234</ymin>
+        <xmax>260.7937150799737</xmax>
+        <ymax>296.363274402936</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>93.05692991345312</xmin>
+        <ymin>242.5382853582384</ymin>
+        <xmax>151.73468311787906</xmax>
+        <ymax>305.23466600021914</ymax>
+    </bndbox>
+</object>
+</annotation>

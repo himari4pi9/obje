@@ -1,0 +1,48 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>D4l2RcKUYAAM7G-.jpg</filename>
+    <path>吹き出し2-PascalVOC-export/Annotations/D4l2RcKUYAAM7G-.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>268</width>
+        <height>268</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>0.6092243645924628</xmin>
+        <ymin>1.4221351884312006</ymin>
+        <xmax>40.845557624890446</xmax>
+        <ymax>82.84717353198948</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>51.810678680981596</xmin>
+        <ymin>0.8330959684487291</ymin>
+        <xmax>115.22598049956179</xmax>
+        <ymax>26.999465929009638</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>218.25646362839612</xmin>
+        <ymin>0.22387160385626642</ymin>
+        <xmax>267.4265583917616</xmax>
+        <ymax>100.95783578001752</ymax>
+    </bndbox>
+</object>
+</annotation>

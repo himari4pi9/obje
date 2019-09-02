@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>D4l3s9cU8AEuLVf.jpg</filename>
+    <path>吹き出し2-PascalVOC-export/Annotations/D4l3s9cU8AEuLVf.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>389</width>
+        <height>389</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>126.43405592681857</xmin>
+        <ymin>221.77298901730938</ymin>
+        <xmax>213.67592503834356</xmax>
+        <ymax>278.132815923532</ymax>
+    </bndbox>
+</object><object>
+    <name>bubble</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4.935480116126205</xmin>
+        <ymin>238.46785645815075</ymin>
+        <xmax>125.27143473378615</xmax>
+        <ymax>340.40030332493427</ymax>
+    </bndbox>
+</object>
+</annotation>
